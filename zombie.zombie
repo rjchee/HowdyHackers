@@ -1,0 +1,6 @@
+HowdyHackers is a zombie
+summon
+  task SayHowdy
+      say "Howdy Hackers"
+  animate
+animate

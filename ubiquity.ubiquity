@@ -1,0 +1,3 @@
+function cmd_howdy_hackers() {
+  displayMessage("Howdy Hackers");
+}
