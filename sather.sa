@@ -1,0 +1,7 @@
+class MAIN is
+   main is 
+      loop 
+         #OUT + "Howdy Hackers\n" 
+      end 
+   end
+end

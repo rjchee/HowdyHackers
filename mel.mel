@@ -1,0 +1,4 @@
+proc howdyHackers () {
+   print "Howdy Hackers\n";
+}
+howdyHackers;

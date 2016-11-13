@@ -1,0 +1,8 @@
+MODULE HowdyHackers;
+
+IMPORT Out;
+
+BEGIN
+   Out.Open;
+   Out.String('Howdy Hackers');
+END HowdyHackers.

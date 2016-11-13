@@ -1,0 +1,10 @@
+! Howdy Hackers in Centura
+
+Function: HowdyHackers
+Description:
+Returns
+Parameters
+Static Variables
+Local variables
+Actions
+ Call SalMessageBox( 'Howdy Hackers','Message',MB_Ok)

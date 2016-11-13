@@ -1,0 +1,18 @@
+indexing "Howdy Hackers in Eiffel , from http://roesler-ac.de/wolfram/howdy.htm#Eiffel"
+
+class HOWDY
+
+creation
+	run
+
+feature
+
+	run is
+		local
+			io : BASIC_IO;
+		do
+			!!io;
+			io.put_string("Howdy Hackers");
+			io.put_newline
+		end; -- run
+end; -- class HOWDY

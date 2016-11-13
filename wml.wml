@@ -1,0 +1,6 @@
+#define HOWDYHACKERS
+  [message]
+    speaker="narrator"
+    message=_"Howdy Hackers"
+  [/message]
+#enddef

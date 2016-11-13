@@ -1,0 +1,6 @@
+begin
+	?howdy = "Howdy Hackers"
+	if 1 == 1 then
+		output ?howdy
+	fi
+end
