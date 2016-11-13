@@ -1,6 +1,6 @@
 ; Howdy Hackers in "The Harper Programmer"
 ; Compiled and tested with version 2.0 Sybex Edition
 
-Variable        Msg,13,"Howdy, Hackers!"
+Variable        Msg,13,"Howdy Hackers"
 
 Write           Msg
